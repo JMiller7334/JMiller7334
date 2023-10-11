@@ -3,7 +3,7 @@ I'm an app developer, web developer, and self taught game developer. I began cod
 self taught at the age of 14 with Lua as my first programming language.
 
 ## A little of what I know:
-* Languages: Lua/Lua, Kotlin, Swift, Java, Python, JavaScript, SQL, PHP
+* Languages: Lua/Luau, Kotlin, Swift, Java, Python, JavaScript, SQL, PHP
 * Markup Languages: HTML, CSS/SCSS
 
 ## Links to my works:
