@@ -1,6 +1,6 @@
-# Hi there, I'm Jacob!
+# Hey there, I'm Jacob!
 I'm an app developer, web developer, and self taught game developer. I began coding 15 years ago,
-self taught at the age of 14, coding in Lua for game development.
+self taught at the age of 14 in game development , coding in Lua.
 
 ## A little of what I know:
 * Languages: Lua/Lua, Kotlin, Swift, Java, Python, JavaScript, SQL, PHP
