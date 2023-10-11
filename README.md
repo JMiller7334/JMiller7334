@@ -8,7 +8,7 @@ self taught at the age of 14 with Lua as my first programming language.
 
 ## Links to my works:
   * Iron Jounral - App Store: https://apps.apple.com/us/app/iron-journal/id6447325690
-  * Iron Hournal - Play Store: https://play.google.com/store/apps/details?id=com.ironjournal.gymtracker&hl=da
+  * Iron Journal - Play Store: https://play.google.com/store/apps/details?id=com.ironjournal.gymtracker&hl=da
 
   * Online Game: Theme Park Project: https://themeparkproject.com/
 
