@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Jacob!
+I'm an app developer, web developer, and self taught game developer. I began coding 15 years ago,
+self taught at the age of 14, coding in Lua for game development.
+
+## A little of what I know:
+* Languages: Lua/Lua, Kotlin, Swift, Java, Python, JavaScript, SQL, PHP
+* Markup Languages: HTML, CSS/SCSS
+
+## Links to my works:
+  * Iron Jounral - App Store: https://apps.apple.com/us/app/iron-journal/id6447325690
+  * Iron Hournal - Play Store: https://play.google.com/store/apps/details?id=com.ironjournal.gymtracker&hl=da
+
+  * Online Game: Theme Park Project: https://themeparkproject.com/
+
 
 <!--
 **JMiller7334/JMiller7334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
