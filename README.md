@@ -10,8 +10,6 @@ self taught at the age of 14 with Lua as my first programming language.
   * Iron Jounral - App Store: https://apps.apple.com/us/app/iron-journal/id6447325690
   * Iron Journal - Play Store: https://play.google.com/store/apps/details?id=com.ironjournal.gymtracker&hl=da
 
-  * Online Game: Theme Park Project: https://themeparkproject.com/
-
 
 <!--
 **JMiller7334/JMiller7334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
