@@ -7,8 +7,8 @@ self taught at the age of 14 with Lua as my first programming language.
 * Markup Languages: HTML, CSS/SCSS
 
 ## Links to my works:
-  * Iron Jounral - App Store: https://apps.apple.com/us/app/iron-journal/id6447325690
-  * Iron Journal - Play Store: https://play.google.com/store/apps/details?id=com.ironjournal.gymtracker&hl=da
+  * Iron Journal(Prototype) - Play Store: https://play.google.com/store/apps/details?id=com.ironjournal.gymtracker&hl=da
+  * Website Database Demo - https://jacobjmiller.com/dashboard-project/
 
 
 <!--
