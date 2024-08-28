@@ -7,7 +7,7 @@ self taught at the age of 14 with Lua as my first programming language.
 * Markup Languages: HTML, CSS/SCSS
 
 ## Project links:
-  * [Iron Journal(Prototype) - Play Store](https://play.google.com/store/apps/details?id=com.ironjournal.gymtracker&hl=da)
+  * [Iron Journal(Prototype) - Play Store](https://play.google.com/store/apps/details?id=com.ironjournal.gymtracker)
   * [Website Database Dashboard](https://jacobjmiller.com/dashboard-project/)
   * [Theme Park Game (Website + Game)](https://themeparkproject.com/)
 
