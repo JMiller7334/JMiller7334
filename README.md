@@ -3,8 +3,14 @@ I'm an app developer, web developer, and self taught game developer. I began cod
 self taught at the age of 14 with Lua as my first programming language.
 
 ## A little of what I know:
+### Programming Languages
 * Languages: Lua/Luau, Kotlin, Swift, Java, Python, JavaScript, SQL, PHP
 * Markup Languages: HTML, CSS/SCSS
+
+### Frameworks:
+* Frameworks(Web): React.Js, Express, Node.js
+* Frameworks(iOS): SwiftUI, UIKit(iOS), Storyboards
+* Frameworks(Android): ConstraintLayout, Jetpack
 
 ## Project links:
   * [Iron Journal(Prototype) - Play Store](https://play.google.com/store/apps/details?id=com.ironjournal.gymtracker)
