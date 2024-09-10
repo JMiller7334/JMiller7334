@@ -8,7 +8,7 @@ self taught at the age of 14 with Lua as my first programming language.
 * Markup Languages: HTML, CSS/SCSS
 
 ### Frameworks:
-* Web: React.Js, Express, Node.js
+* Web: React.js, Express, Node.js
 * iOS: SwiftUI, UIKit(iOS), Storyboards
 * Android: ConstraintLayout, Jetpack
 
