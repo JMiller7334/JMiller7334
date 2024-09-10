@@ -8,9 +8,9 @@ self taught at the age of 14 with Lua as my first programming language.
 * Markup Languages: HTML, CSS/SCSS
 
 ### Frameworks:
-* Frameworks(Web): React.Js, Express, Node.js
-* Frameworks(iOS): SwiftUI, UIKit(iOS), Storyboards
-* Frameworks(Android): ConstraintLayout, Jetpack
+* Web: React.Js, Express, Node.js
+* iOS: SwiftUI, UIKit(iOS), Storyboards
+* Android: ConstraintLayout, Jetpack
 
 ## Project links:
   * [Iron Journal(Prototype) - Play Store](https://play.google.com/store/apps/details?id=com.ironjournal.gymtracker)
