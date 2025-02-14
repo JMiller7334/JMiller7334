@@ -1,5 +1,5 @@
 # Hey there, I'm Jacob!
-I'm an app developer, web developer, and self taught game developer. I began coding 15 years ago,
+I'm an app developer, web developer, and self taught game developer. I began coding 17 years ago,
 self taught at the age of 14 with Lua as my first programming language.
 
 ## A little of what I know:
