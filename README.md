@@ -12,7 +12,8 @@ self taught at the age of 14 with Lua as my first programming language.
 * iOS: SwiftUI, UIKit(iOS), Storyboards
 * Android: ConstraintLayout, Jetpack
 
-## Project links:
+## links:
+  * [JacobJMiller.com](https://jacobjmiller.com)
   * [Iron Journal(Prototype) - Play Store](https://play.google.com/store/apps/details?id=com.ironjournal.gymtracker)
   * [Website Database Dashboard](https://jacobjmiller.com/dashboard-project/)
 
