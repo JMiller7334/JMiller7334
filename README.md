@@ -10,7 +10,7 @@ self taught at the age of 14 with Lua as my first programming language.
 ### Frameworks:
 * Web: React.js, Node.js, Express
 * iOS: SwiftUI, UIKit(iOS), Storyboards
-* Android: ConstraintLayout, Jetpack
+* Android: Android SDK, Jetpack
 
 ## links:
   * [JacobJMiller.com](https://jacobjmiller.com)
